@@ -1,9 +1,9 @@
-# LeviExpress - Webová stránka dopravní společnosti
+# LeviExpress - dopravní společnost
 
 ## Úvod
 
 (úkol ze stránek Kódím.cz.)
-Webová stránká pro fiktivní dopravní společnost LeviExpress s možností rezervace jízdenky a zobrazením detailů spojů a rezervace.
+Webová stránka pro fiktivní dopravní společnost LeviExpress s možností rezervace jízdenky a zobrazením detailů spojů a rezervace.
 
 ### Základní rezervace jízdenky
 
@@ -31,7 +31,10 @@ Struktura aplikace zahrnuje následující komponenty:
 
 ## Použité technologie
 
-Projekt je vytvořen v Reactu s použitím React Routeru pro navigaci mezi jednotlivými stránkami. Data jsou získávána z fiktivního API, které poskytuje informace o dostupných spojích•.
+Projekt je vytvořen v Reactu s použitím React Routeru pro navigaci mezi jednotlivými stránkami. Data jsou získávána z fiktivního API, které poskytuje informace o dostupných spojích.
 
-•
 (Dvě autobusové linky, které spojují východní a západní Evropu. Jedna linka vyjíždí z Budapešti o půlnoci a končí v Amsterdamu o půlnoci, zatímco druhá linka cestuje opačným směrem, tedy z Amsterdamu do Budapešti.)
+
+![LeviExpress](https://github.com/MStenicka/LeviExpress/blob/main/LeviExpress.png)
+
+![E-jizdenka](https://github.com/MStenicka/LeviExpress/blob/main/e-jizdenka.png)
